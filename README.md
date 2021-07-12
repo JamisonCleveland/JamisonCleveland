@@ -4,7 +4,7 @@
     * Theoretical CS
     * A little bit of blockchain
 - 🌱 I’m currently learning
-    * Automata Theory
+    * Basic web development in Haskell and Elm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
