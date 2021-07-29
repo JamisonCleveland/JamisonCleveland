@@ -10,6 +10,7 @@
    * jamison.n.cleveland@gmail.com
    * jamisonc1128@gmail.com
    * My Handshake acct: https://montana.joinhandshake.com/users/27277446
+   * LinkedIn: https://www.linkedin.com/in/jamison-cleveland-16a211217/
 
 <!---
 JamisonCleveland/JamisonCleveland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
