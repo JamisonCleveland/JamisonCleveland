@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning
     * Basic web development in Haskell and Elm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+   * jamison.n.cleveland@gmail.com
+   * jamisonc1128@gmail.com
+   * My Handshake acct: https://montana.joinhandshake.com/users/27277446
 
 <!---
 JamisonCleveland/JamisonCleveland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
