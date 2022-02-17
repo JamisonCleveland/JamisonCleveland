@@ -2,7 +2,6 @@
 - 👀 I’m interested in:
     * Haskell / FP
     * Theoretical CS
-    * A little bit of blockchain
 - 🌱 I’m currently learning
     * Basic web development in Haskell and Elm
 - 💞️ I’m looking to collaborate on ...
